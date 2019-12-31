@@ -1,0 +1,8 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+dgirls370
+db.sqlite3
+/static
+.DS_Store
